@@ -1,0 +1,89 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-04-13T01:43:40.803Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3055094000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.Hooks.preConditions()"
+            }
+          }
+        ],
+        "line": 62,
+        "name": "Login with multiple credentials using data table",
+        "description": "",
+        "id": "login-functionalities;login-with-multiple-credentials-using-data-table",
+        "after": [
+          {
+            "result": {
+              "duration": 104027000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.Hooks.postConditions()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7180366000,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "user enters username and password and verifies login",
+            "match": {
+              "location": "StepDefinitions.Login.user_enters_username_and_password_and_verifies_login(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "username",
+                  "password"
+                ]
+              },
+              {
+                "cells": [
+                  "admin",
+                  "Hum@nhrm123"
+                ]
+              },
+              {
+                "cells": [
+                  "ADMIN",
+                  "Hum@nhrm123"
+                ]
+              },
+              {
+                "cells": [
+                  "Jason",
+                  "Hum@nhrm123"
+                ]
+              }
+            ],
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@dataTable"
+          }
+        ]
+      }
+    ],
+    "name": "Login Functionalities",
+    "description": "",
+    "id": "login-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Login.feature",
+    "tags": []
+  }
+]
