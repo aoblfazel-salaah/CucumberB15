@@ -1,6 +1,6 @@
 Feature: Employee
 
-  @smoke
+  @smoke3
   Scenario: Adding a new Employee
 
     #Given open the browser and launch HRMS application

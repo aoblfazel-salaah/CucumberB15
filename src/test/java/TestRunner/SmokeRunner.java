@@ -9,8 +9,10 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/Features",
         glue = "StepDefinitions",
         dryRun = false,
-        tags = "@dataTable",
-        plugin = { "pretty", "html:target/report.html", "json:target/report.json"}
+        tags = "@smoke2 or @smoke3",
+        plugin = { "pretty", "html:target/report.html",
+                            "json:target/report.json",
+                "rerun:target/failed.txt"}
 )
 
 

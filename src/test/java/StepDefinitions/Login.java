@@ -37,7 +37,6 @@ public class Login extends CommonMethods {
     }
     @When("user enters {string} and {string}")
     public void user_enters_and(String username, String password) {
-
         sendText(login.usernameSlot, username);
         sendText(login.passSlot, password);
     }

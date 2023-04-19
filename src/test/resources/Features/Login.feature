@@ -14,7 +14,7 @@ Feature: Login Functionalities
   #       This class can not be inherited
 
   @smoke2
-  Scenario: Valid Admin Login2
+  Scenario: Valid Admin Login with regEx
     #Given open the browser and launch HRMS application
     When user enters "Admin" and "Hum@nhrm123"
     And clicks on login button

@@ -7,6 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage extends CommonMethods {
+    //POM is also called design pattern
 
     //page factory model approach --- form selenium
     @FindBy (id = "txtUsername")
