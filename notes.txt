@@ -1,0 +1,13 @@
+JDBC notes --
+
+recap -
+
+mysql connector
+
+3 things to work with DB
+        - address of DB (url)
+        - Name of DB
+        - Username, password
+
+
+Connection class - to

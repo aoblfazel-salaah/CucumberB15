@@ -1,6 +1,5 @@
 package StepDefinitions;
 
-import Pages.LoginPage;
 import Utils.CommonMethods;
 import Utils.ConfigReader;
 import io.cucumber.datatable.DataTable;

@@ -20,6 +20,9 @@ public class AddEmployeePage extends CommonMethods {
     @FindBy (id = "menu_pim_viewPimModule")
     public WebElement PIMOption;
 
+    @FindBy (id = "employeeId")
+    public WebElement employeeIdSlot;
+
     public AddEmployeePage(){
         PageFactory.initElements(driver, this);
     }
