@@ -586,3 +586,43 @@
 2023-05-27 13:46:38 INFO  Log:20 - #############################
 2023-05-27 13:46:38 INFO  Log:21 - #############################
 2023-05-27 13:46:38 INFO  Log:23 - ############# This test case is finished #############
+2023-05-30 21:31:10 INFO  Log:12 - ****************************
+2023-05-30 21:31:10 INFO  Log:13 - ****************************
+2023-05-30 21:31:10 INFO  Log:15 - ************* This is the beginning of my Test case *************
+2023-05-30 21:31:10 INFO  Log:28 - My test case is executing right now
+2023-05-30 21:31:10 INFO  Log:33 - My test case might have some trivial issues
+2023-05-30 21:31:16 INFO  Log:28 - The employee id is 29347071
+2023-05-30 21:31:18 INFO  Log:28 - This test case is about to get completed
+2023-05-30 21:31:18 INFO  Log:20 - #############################
+2023-05-30 21:31:18 INFO  Log:21 - #############################
+2023-05-30 21:31:18 INFO  Log:23 - ############# This test case is finished #############
+2023-05-30 21:31:20 INFO  Log:12 - ****************************
+2023-05-30 21:31:20 INFO  Log:13 - ****************************
+2023-05-30 21:31:20 INFO  Log:15 - ************* This is the beginning of my Test case *************
+2023-05-30 21:31:20 INFO  Log:28 - My test case is executing right now
+2023-05-30 21:31:20 INFO  Log:33 - My test case might have some trivial issues
+2023-05-30 21:31:26 INFO  Log:28 - The employee id is 22955382
+2023-05-30 21:31:28 INFO  Log:28 - This test case is about to get completed
+2023-05-30 21:31:28 INFO  Log:20 - #############################
+2023-05-30 21:31:28 INFO  Log:21 - #############################
+2023-05-30 21:31:28 INFO  Log:23 - ############# This test case is finished #############
+2023-05-30 21:33:20 INFO  Log:12 - ****************************
+2023-05-30 21:33:20 INFO  Log:13 - ****************************
+2023-05-30 21:33:20 INFO  Log:15 - ************* This is the beginning of my Test case *************
+2023-05-30 21:33:20 INFO  Log:28 - My test case is executing right now
+2023-05-30 21:33:20 INFO  Log:33 - My test case might have some trivial issues
+2023-05-30 21:33:59 INFO  Log:28 - The employee id is 12304537
+2023-05-30 21:34:27 INFO  Log:28 - This test case is about to get completed
+2023-05-30 21:34:27 INFO  Log:20 - #############################
+2023-05-30 21:34:27 INFO  Log:21 - #############################
+2023-05-30 21:34:27 INFO  Log:23 - ############# This test case is finished #############
+2023-05-30 21:34:38 INFO  Log:12 - ****************************
+2023-05-30 21:34:38 INFO  Log:13 - ****************************
+2023-05-30 21:34:38 INFO  Log:15 - ************* This is the beginning of my Test case *************
+2023-05-30 21:34:38 INFO  Log:28 - My test case is executing right now
+2023-05-30 21:34:38 INFO  Log:33 - My test case might have some trivial issues
+2023-05-30 21:34:55 INFO  Log:28 - The employee id is 25434107
+2023-05-30 21:35:00 INFO  Log:28 - This test case is about to get completed
+2023-05-30 21:35:00 INFO  Log:20 - #############################
+2023-05-30 21:35:00 INFO  Log:21 - #############################
+2023-05-30 21:35:00 INFO  Log:23 - ############# This test case is finished #############
